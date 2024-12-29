@@ -1,6 +1,6 @@
 ### Hi there 👋, I am  Munni Khanam
 #### I am a creative and passionate frontend developer.
-![I am a creative and passionate frontend developer.](![FrontEnd Developer (2)](https://github.com/user-attachments/assets/ec3bc739-453d-40b6-8ac1-f3839ac11ff2))
+![FrontEnd Developer](https://github.com/user-attachments/assets/19d6d89a-de88-4898-a456-26f0be772094)
 
 I am a dedicated Front-End web developer. I am enthusiastic and passionate about making responsive, error-free websites with fully client satisfaction. I invest my energy to learn and build new technology regularly . I am a attentive and disciplined learner. 
 
